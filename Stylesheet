@@ -1,0 +1,155 @@
+Body{
+  background-color:#fafafa;
+  
+  display:flex;
+   font-family: -apple-system, 
+                BlinkMacSystemFont, 
+                "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+				
+}
+
+#Insta{
+  margin-right:18px;
+  margin-top:20px;
+}
+#Insta img{
+	width:100%;
+  height:auto;
+}
+
+.form{
+	flex-shrink:3;
+  flex-flow:row wrap;
+  margin-top:65px;
+  background-color:#ffffff;
+  height:400px;
+  width:349px;
+  border-style:solid;
+  border-width:0.5px;
+  border-color:#e0e0e0;
+}
+#Logo img{
+	margin:30px 20px -5px 75px;
+}
+.form p{
+  margin-left:45px;
+  color:#8e8e8e;
+}
+.form input{
+  margin-bottom:5px;
+  background-color:#fafafa;
+  border-color:#e0e0e0;
+  border-radius:3px;
+  height:35px;
+  width:269px;
+  border-width:0.5px;
+  margin-left:40px;  
+}
+#input{
+margin-top:40px;
+}
+input[type="text"]
+{
+    font-size:11.5px;
+	font-weight:400;
+}
+input[type="password"]
+{
+    font-size:11.5px;
+	font-weight:400;
+}
+#button{
+  margin-top:8px;
+  color:#ffffff;
+  width:269px;
+  border-style:none;
+  height:30px;
+  background-color:#b2dffc;
+  border-radius:6px;
+}
+.form ul{
+  list-style-image:url('fb.gif');
+  margin-left:70px;
+  margin-top:-8px;
+}
+.form ul li a{
+	font-size:14px;
+	text-decoration:none;
+	color:#385185;
+	font-weight:600;
+}
+#fb{
+  font-size:12px;
+  color:#385185;
+  text-decoration:none;
+  margin-left:125px;
+  margin-bottom:10px;
+}
+#signup{
+ margin-top:475px;
+  margin-bottom:8px;
+  margin-left:-350px;
+  width:347px;
+  background-color:#ffffff;
+  height:63px;
+  border-style:solid;
+  border-width:0.5px;
+  border-color:#e0e0e0;
+}
+#signup p{
+  margin-left:70px;
+  margin-top:20px;
+  font-size:14px;
+  font-weight:300;
+}
+#signup a{
+  color:#6397f6;
+  font-weight:600;
+  text-decoration:none;
+}
+#Get{
+	flex-flow:row wrap;
+	 margin-top:558px;
+  margin-bottom:8px;
+  margin-left:-210px;
+  font-size:14px; 
+}
+#app-store img{
+	flex-flow:row wrap;
+	width:135px;
+	height:38px;
+	margin-top:593px;
+  margin-bottom:8px;
+  margin-left:-175px;
+}
+#Google-play img{
+	flex-flow:row wrap;
+	width:135px;
+	height:38px;
+	margin-top:-100px;
+  margin-bottom:28px;
+  margin-left:-33px;
+}
+footer ul{
+	Display:flex;
+	margin-top:780px;
+  margin-bottom:28px;
+  margin-left:-900px;
+  text-decoration:none;
+	list-style-type:none;
+}
+footer a{
+	margin-left:16px;
+	font-size:12px;
+	font-weight:600;
+	text-decoration:none;
+	color:#00376b;
+}
+footer p{
+	margin-top:-46px;
+  margin-bottom:28px;
+  margin-left:-15px;
+  font-size:12.5px;
+color:#8e8e8e;  
+	font-weight:600;
+}
